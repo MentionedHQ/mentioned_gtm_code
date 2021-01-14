@@ -1,0 +1,5 @@
+homepage: "https://mentioned.app"
+documentation: "https://github.com/MentionedHQ/mentioned_gtm_code"
+versions:
+  - sha: a972fb6f57e92eb2e57cf8714d106b4750db8004
+    changeNotes: Initial version release
